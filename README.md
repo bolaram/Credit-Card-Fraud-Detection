@@ -1,0 +1,2 @@
+# Credit-Card-Fraud-Detection
+It's a unsupervised anomaly detection problem. I've used data from kaggle. There are 284,807 data in that csv file. First, we review the data, make histogram for each column and also display the correlation of each column with each other using heatmap. Then we import two unsupervised anomaly detection algorithms and finally, compare them with each other by classification report.
